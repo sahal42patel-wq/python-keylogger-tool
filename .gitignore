@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# SAFETY: Ignore the actual log file so your keystrokes aren't uploaded!
+keylog.txt
