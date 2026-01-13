@@ -6,8 +6,8 @@
 ## 📄 Description
 A simple **Keylogger** built in Python using the `pynput` library. This project demonstrates how malware can capture user input and highlights the importance of keyboard encryption and antivirus defenses.
 
-**⚠️ FOR EDUCATIONAL PURPOSES ONLY.**
-⚠️ Disclaimer
+**⚠️ Disclaimer FOR EDUCATIONAL PURPOSES ONLY.**
+⚠️ 
 This tool is designed for security research and education. I am not responsible for any misuse of this code. Installing keyloggers on computers you do not own is illegal.
 
 
