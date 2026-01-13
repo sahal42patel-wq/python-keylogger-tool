@@ -1,4 +1,4 @@
-# Python Keylogger (Educational) ⌨️
+# Python Keylogger (Educational) 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![Category](https://img.shields.io/badge/Category-Ethical_Hacking-red)
